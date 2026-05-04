@@ -1,2 +1,13 @@
-# FUTURE_ML_01
-Sales forecasting model using Linear Regression to predict future business demand.
+# Sales Forecasting Model
+
+This project predicts future sales using Linear Regression.
+
+## Features
+- Predicts future sales
+- Visualizes data using graph
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
